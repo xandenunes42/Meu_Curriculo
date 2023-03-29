@@ -1,0 +1,131 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    
+    background-color: white;
+}
+div.main{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    border: none;
+    background-color: white;
+}
+div{
+    border: 1px solid black;
+    border-bottom: none;
+    width: 400px;
+    height: 100%px;
+    color: #CCCCCC;
+    background-color: #17141D;
+    border-left: none;
+    box-shadow: inset 18px 0px 9px -17px black;
+}
+
+div.bot{
+    background-color: #17141D;
+    height: 40px;
+    width: 400px;
+    border-radius: 2px solid black;
+    border-left: none;
+    border-right: none;
+    padding-top: 10px;
+    padding-left: 10px;
+    font-family: 'Cinzel', serif;
+}
+
+div.bot#c1{
+    border: 1px solid black;
+    
+}
+
+div.bot#c2{
+    border: 1px solid black;
+    border-top: none;
+}
+
+div.bot#c3{
+    border: 1px solid black;
+    border-top: none;
+}
+
+div.bot#c4{
+    border: 1px solid black;
+    border-top: none;
+    border-bottom: none;
+}
+
+div.segunda{
+    width: 800px;
+    border: none;
+    padding-top: 30px;
+    padding-left: 100px;
+    background-color: white;
+    padding-right: 100px;
+}
+
+h1{
+    font-size: 20px;
+    font-family: 'Cinzel', serif;;
+    margin: 15px;
+}
+
+
+h1.conteudo{
+    font-size: 30px;
+    color: #17141D;
+    font-weight: bold;
+    font-family: 'Cinzel', serif;
+    margin-left: 0%;
+}
+p.nav{
+    font-family: 'Cinzel', serif;
+    font-weight: bold;
+    font-size: 14px;
+    margin: 4px;
+    margin-left: 7px;
+}
+p.h1{
+    font-size: 20px;
+    color: #17141D;
+    font-family: 'Cinzel', serif;
+    
+}
+
+
+
+p.conteudo#p1{
+    
+    font-family: 'Roboto', sans-serif;
+    color: #17141d93;
+    font-weight: lighter;
+    text-indent: 1.5em;
+    line-height: 0.6cm;
+}
+p.conteudo#p2{
+    padding-top: 0px;
+    font-family: 'Roboto', sans-serif;
+    color: #17141d93;
+    font-weight: lighter;
+    line-height: 0.6cm;
+    
+}
+
+h2{
+    color: #17141D;
+    font-family: 'Cinzel', serif;;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+h2.h2{
+    margin-top: 60px;
+}
+
+span{
+    margin-right: 6px;
+}
